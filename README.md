@@ -5,7 +5,7 @@ This project aims to analyze Netflix’s global content library through an inter
 
 
 # Dataset Used
- - <a href="C:\Users\lokch\OneDrive\Desktop\PBI\P Projects DATASETS\netflix_titles.csv">netflix_titles Dataset</a>
+ - <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows">netflix_titles Dataset</a>
 
 # Questions (KPIs)
 
