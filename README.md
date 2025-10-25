@@ -1,8 +1,8 @@
 # Netflix-Dashboard
+The Netflix Dashboard project is a data analysis and visualization initiative designed to explore Netflix’s global content library using Power BI. The project provides an interactive view of movies and TV shows, analyzing patterns in content distribution across genres, countries, release years, and ratings. By transforming raw Netflix data into meaningful visual insights, the dashboard helps users understand content trends, identify top-performing genres, and track how Netflix’s catalog has evolved over time. It serves as a powerful analytical tool for data-driven decision-making in the entertainment domain.
 
 # project objective
 This project aims to analyze Netflix’s global content library through an interactive Power BI dashboard, highlighting trends in movies and TV shows across countries and genres. It provides insights into content distribution, release year patterns, and ratings to support data-driven decisions. The dashboard enhances understanding of viewer preferences and Netflix’s content strategy.
-
 
 # Dataset Used
  - <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows">netflix_titles Dataset</a>
