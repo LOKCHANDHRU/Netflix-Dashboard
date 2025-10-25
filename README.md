@@ -5,7 +5,7 @@ This project aims to analyze Netflix’s global content library through an inter
 
 
 # Dataset Used
-<a href="C:\Users\lokch\OneDrive\Desktop\PBI\P Projects DATASETS\netflix_titles.csv">netflix_titles Dataset</a>
+ - <a href="C:\Users\lokch\OneDrive\Desktop\PBI\P Projects DATASETS\netflix_titles.csv">netflix_titles Dataset</a>
 
 # Questions (KPIs)
 
@@ -32,4 +32,24 @@ This project aims to analyze Netflix’s global content library through an inter
 
 # Process
 
+ - Define the Project Aim
+ - Identify Key Research Questions
+ - Determine Key Performance Indicators (KPIs)
+ - List Required Data Fields
+ - Identify Data Sources
+ - Collect or Download the Dataset
+ - Inspect Data Structure and Schema
+ - Document Dataset Metadata
+ - Perform Initial Data Validation
+ - Connect Dataset to Power BI Template
+ - Version Control the Raw Data
+ - Record Data Quality Issues
+ - Secure Data Storage and Access
+ - Plan Data Refresh and Update Cycle
+ - Move to Data Profiling and Cleaning Steps
+
+# Dashboard
+Screen Shot
+ - <a href="C:\Users\lokch\OneDrive\Pictures\Screenshots 1\Screenshot 2025-10-25 155243.png"> Dashboard image</a>
+ - <a href="C:\Users\lokch\OneDrive\Desktop\Interview projects\Netflix Dashboard.pbit"> Dashboard</a>
 
