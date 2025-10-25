@@ -50,6 +50,6 @@ This project aims to analyze Netflix’s global content library through an inter
 
 # Dashboard
 Screen Shot
- - <a href="C:\Users\lokch\OneDrive\Pictures\Screenshots 1\Screenshot 2025-10-25 155243.png"> Dashboard image</a>
+ - <a href="https://github.com/LOKCHANDHRU/Netflix-Dashboard/blob/main/Screenshot%202025-10-25%20155243.png"> Dashboard image</a>
  - <a href="https://github.com/LOKCHANDHRU/Netflix-Dashboard/blob/main/Netflix%20Dashboard.pbit"> Dashboard</a>
 
